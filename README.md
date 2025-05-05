@@ -11,19 +11,18 @@ This repository offers:
     - Visual Studio Code (https://code.visualstudio.com/)
     - Anaconda/Miniconda (https://www.anaconda.com/download)
     - Download this repository to your local pc
-3. Create environment
-### Windows
-  In your anaconda/miniconda terminal run one-by-one the following lines
-```
-cd <path-to-repository>
-conda create -n connectomics python=3.11
-conda activate connectomics
-pip install -r requirements.txt
-conda activate connectomics
-python -m ipykernel install --user --name i --display-name "connectomics"
-```
-### Linux/macos
-```
-```
-### Get your token
-- Male:  https://connectome-neuprint.github.io/neuprint-python/docs/quickstart.html#client-and-authorization-token
+2. Create environment
+  ### Windows
+    In your anaconda/miniconda terminal run one-by-one the following lines
+  ```
+  cd <path-to-repository>
+  conda create -n connectomics python=3.11
+  conda activate connectomics
+  pip install -r requirements.txt
+  conda activate connectomics
+  python -m ipykernel install --user --name i --display-name "connectomics"
+  ```
+  ### Linux/macos
+  ```
+  ```
+3. Get your token  for the male optic lobe [here](https://connectome-neuprint.github.io/neuprint-python/docs/quickstart.html#client-and-authorization-token)
