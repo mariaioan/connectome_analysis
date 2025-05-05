@@ -10,7 +10,7 @@ This repository offers:
 1. Installation
     - Visual Studio Code (https://code.visualstudio.com/)
     - Anaconda/Miniconda (https://www.anaconda.com/download)
-    - Download this repository to your local pc
+    - Download this repository to your local pc (https://github.com/mariaioan/connectome_analysis/tree/main)
 2. Create environment
     #### Windows
       In your anaconda/miniconda terminal run one-by-one the following lines
