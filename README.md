@@ -1,8 +1,8 @@
 # connectome_analysis
-This repository is created for the course from the Silies Lab.
+This repository is created to investigate the Tm9/Tm1 upstream connectivity in _Drosophila melanogaster_ for the course from the Silies Lab.
 
 This repository offers:
-  - package installation of the [male](https://reiserlab.github.io/male-drosophila-visual-system-connectome/) and [female](https://codex.flywire.ai/?dataset=fafb) connectomes in Drosophila
+  - package installation of the [male](https://reiserlab.github.io/male-drosophila-visual-system-connectome/) and [female](https://codex.flywire.ai/?dataset=fafb) connectomes in _Drosophila_
   - how to access connectomes programmatically in python
     - accessing moprphology, connections, synapse numbers, and neurotransmitter type in jupyter notebook
 
