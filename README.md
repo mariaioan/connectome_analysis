@@ -26,3 +26,4 @@ python -m ipykernel install --user --name i --display-name "connectomics"
 ```
 ```
 ### Get your token
+- Male:  https://connectome-neuprint.github.io/neuprint-python/docs/quickstart.html#client-and-authorization-token
