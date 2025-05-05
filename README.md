@@ -2,7 +2,7 @@
 This repository is created for the course from the Silies Lab.
 
 This repository offers:
-  - package installation of the male and female connectomes in Drosophila
+  - package installation of the [male](https://reiserlab.github.io/male-drosophila-visual-system-connectome/) and [female](https://codex.flywire.ai/?dataset=fafb) connectomes in Drosophila
   - how to access connectomes programmatically in python
     - accessing moprphology, connections, synapse numbers, and neurotransmitter type in jupyter notebook
 
