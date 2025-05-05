@@ -11,9 +11,11 @@ This repository offers:
     - Visual Studio Code (https://code.visualstudio.com/)
     - Anaconda/Miniconda (https://www.anaconda.com/download)
     - Download this repository to your local pc (https://github.com/mariaioan/connectome_analysis/tree/main)
-2. Create environment
-    #### Windows
-      In your anaconda/miniconda terminal run one-by-one the following lines
+2. Create environment <br />
+   ##### In your anaconda/miniconda terminal run one-by-one the following lines
+   
+    #### Windows 
+      
     ```
     cd <path-to-repository>
     conda create -n connectomics python=3.11
@@ -25,4 +27,4 @@ This repository offers:
     #### Linux/macos
     ```
     ```
-3. Get your token for the male optic lobe [here](https://connectome-neuprint.github.io/neuprint-python/docs/quickstart.html#client-and-authorization-token)
+4. Get your token for the male optic lobe [here](https://connectome-neuprint.github.io/neuprint-python/docs/quickstart.html#client-and-authorization-token)
