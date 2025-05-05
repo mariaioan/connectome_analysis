@@ -2,13 +2,26 @@
 This repository is created for the course from the Silies Lab.
 
 This repository offers:
-  - how to install packages of the male and female coonnectomes in Drosophila
+  - package installation of the male and female connectomes in Drosophila
   - how to access connectomes programmatically in python
-  - access in the male optic lobe of Drosophila
-  - access in the female brain from Flywire
-  - accessing moprphology,connections, synapse numbers, and neurotransmitter type within jupyter notebook
-  - 
-1. Create environment
-2. Accessing datsaets and analyzing
-   
-# have a directory tree
+    - accessing moprphology, connections, synapse numbers, and neurotransmitter type in jupyter notebook
+
+### Requirements:
+1. Installation
+    - Visual Studio Code (https://code.visualstudio.com/)
+    - Anaconda/Miniconda (https://www.anaconda.com/download)
+    - Download this repository to your local pc
+3. Create environment
+### Windows
+  In your anaconda/miniconda terminal run one-by-one the following lines
+```
+cd <path-to-repository>
+conda create -n connectomics python=3.11
+conda activate connectomics
+pip install -r requirements.txt
+conda activate connectomics
+python -m ipykernel install --user --name i --display-name "connectomics"
+```
+### Linux/macos
+```
+```
