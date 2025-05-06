@@ -7,7 +7,7 @@ This repository offers:
     - accessing moprphology, connections, synapse numbers, and neurotransmitter type in jupyter notebook
 
 ### Installation:
-1. Requirments
+1. Requirements
     - Visual Studio Code (https://code.visualstudio.com/)
     - Anaconda/Miniconda (https://www.anaconda.com/download)
     - Download this repository to your local pc (https://github.com/mariaioan/connectome_analysis/tree/main)
