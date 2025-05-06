@@ -119,7 +119,6 @@ python-catmaid==2.4.2
 python-dateutil==2.9.0.post0
 python-jsonschema-objects==0.5.7
 pytz==2025.2
-pywin32==310
 pyzmq==26.4.0
 rdata==0.11.2
 readchar==4.2.1
