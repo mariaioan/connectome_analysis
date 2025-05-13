@@ -12,6 +12,7 @@ This repository offers:
     - Anaconda/Miniconda (https://www.anaconda.com/download)
     - Download this repository to your local pc (https://github.com/mariaioan/connectome_analysis/tree/main)
     - For Windows: https://git-scm.com/downloads/win
+    - Download 'Connections (Unfiltered) (212 MB)' from https://codex.flywire.ai/api/download?dataset=fafb in your repo folder
 2. Create environment <br />
    ##### In your anaconda/miniconda terminal run one-by-one the following lines
    
