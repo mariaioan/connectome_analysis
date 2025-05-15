@@ -24,12 +24,21 @@ This repository offers:
     conda activate connectomics
     pip install -r requirements.txt
     ```
-    #### Linux/macos
+    #### Linux
     ```
     cd <path-to-repository>
     conda create -n connectomics python=3.11
     conda activate connectomics
     sudo apt install git
+    pip install -r requirements.txt
+    ```
+    #### macos
+     ```
+    cd <path-to-repository>
+    conda create -n connectomics python=3.11
+    conda activate connectomics
+    Install brew if needed: /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    brew install git
     pip install -r requirements.txt
     ```
 4. Get your token for the male optic lobe [here](https://connectome-neuprint.github.io/neuprint-python/docs/quickstart.html#client-and-authorization-token)
