@@ -32,7 +32,7 @@ This repository offers:
     sudo apt install git
     pip install -r requirements.txt
     ```
-    #### macos
+    #### macOS
      ```
     cd <path-to-repository>
     conda create -n connectomics python=3.11
