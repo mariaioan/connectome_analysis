@@ -42,4 +42,4 @@ This repository offers:
     pip install -r requirements.txt
     ```
 4. Get your token for the male optic lobe [here](https://connectome-neuprint.github.io/neuprint-python/docs/quickstart.html#client-and-authorization-token)
-5. Get yout token for the female connectome [here](https://fafbseg-py.readthedocs.io/en/latest/source/tutorials/flywire_setup.html)
+5. (Optional) Get yout token for the female connectome [here](https://fafbseg-py.readthedocs.io/en/latest/source/tutorials/flywire_setup.html)
